@@ -2,7 +2,7 @@
 
 NewsAutoAnalysisUKR is a tool designed to scrape, analyze, and summarize news articles focusing on the War in Ukraine. By leveraging advanced Python libraries and OpenAI's GPT models, this application provides insightful visualizations such as word clouds and frequency analysis charts, alongside comprehensive summaries that offer a deeper understanding of the conflict's coverage in the media.
 
-
+https://github.com/Op27/NewsAutoAnalysisUKR/assets/39921621/f5509dcc-e21a-4b24-93e6-b3043c4a1ce0
 
 ## Features
 - **Article Scraping**: Automatically scrapes news articles from specified sources.
